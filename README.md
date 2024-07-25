@@ -2,8 +2,7 @@
 ## Description
 This is another project assigned by 42 Warsaw. The project fires up a simple game, using X11.
 Attention! This project will run only on Linux!
-
-
+![Screencast from 2024-07-25 19-07-55](https://github.com/user-attachments/assets/659e1125-6c22-4652-9588-ac054f5a6c55)
 ## Installation
 Here's what you to do to start the game
 + Install make if you don't have it
